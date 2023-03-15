@@ -8,7 +8,7 @@ basic.forever(function() {
         # . . . #
         # # . # #
         . . . . .
-        . # # # .
+        . # # # .                   
         # . . . #
         `)
     basic.pause(1000)
@@ -86,4 +86,4 @@ When the static type of ``x`` is a class ``C``, the dynamic type of ``x`` isn’
 
 ## See also
 
-[panic](/reference/control/panic), [assert](/reference/control/assert)
+[panic](/reference/control/panic), [assert](/reference/control/assert) this is so silly omg i lovve microbittS
